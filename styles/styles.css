@@ -1,0 +1,35 @@
+body {
+    background-color: #8FCA7E;
+}
+
+header {
+    background-color: #B0DDA3;
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+form {
+
+}
+
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 40px;
+}
+
+span {
+    font-family: Verdana;
+    font-size: 22px;
+}
+nav > ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    font-family: Verdana;
+    font-size: 20px;
+}
